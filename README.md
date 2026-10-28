@@ -1,18 +1,7 @@
-# Qas.nur — Adult Health I consolidated study build
+Qas.nur — JUST NUR223 Clinical Core update v1.1 (editorial draft)
 
-Open `index.html` with `styles.css`, `lessons.js`, and `app.js` in the same folder. No build tooling needed.
+UPLOAD ALL 5 website files from this ZIP to the root of your GitHub Pages repository: index.html, styles.css, app.js, adult1.js, just-core.js. Do not upload the ZIP itself.
 
-## What is actually included
-- Original extended Myocardial Infarction review, 8 MI questions, 3 MI cases.
-- 18 additional focused, condition-specific lessons drawn from the previously shared Adult Health I topic list, each with 7 core headings, nursing process, patient education, and a clinical priority scenario.
-- Separate NCLEX-style practice tab with 18 additional introductory scenario items (not official NCLEX questions).
-- Qas.nur branding and subtle copyright watermark.
-- Optional select-to-translate via external Google Translate.
-- Original broader curriculum topic index retained, with non-developed titles marked planned.
+This release adds 16 syllabus-aligned clinical topics in a dedicated JUST Clinical Core section, with 11 focused study sections each, case reasoning and illustrative care planning. It retains the previous 114-topic catalog and the MI/HF pilot pages. The old catalog still includes short generic summaries; this release does NOT claim that all topics are complete or scientifically validated. No Anatomy, worksheet, post-conference or OSCE section is included.
 
-## Important limitations
-These are concise study drafts, NOT fully comprehensive or independently medically reviewed lectures. Specific NANDA-I labels need licensed-edition verification. This build is NOT a verified full JUST syllabus, because an official complete syllabus was not supplied. Do not present it as a clinically reviewed complete 114-topic course.
-
-Owner-only analytics and login are deferred. Secure analytics require a server-side or hosted service and authentication, not static JS.
-
-The watermark is attribution, not conclusive legal proof of ownership.
+Important: This is a STUDY DRAFT, not a validated student-ready clinical reference. Confirm all pharmacological, emergency, and NANDA-I information against current guidelines and licensed taxonomy with a qualified nursing educator before wider student use.
