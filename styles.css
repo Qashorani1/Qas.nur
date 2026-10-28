@@ -9,3 +9,5 @@
 #selected-phrase{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:#c6dce7}
 #translate-selected{background:#5cdec4;color:#072735;border:0;border-radius:9px;padding:9px;font-weight:800;font-size:12px;white-space:nowrap}
 #dismiss-translation{border:0;background:transparent;color:#eaf5fb;font-size:22px;padding:0 5px}
+/* Qas.nur system examinations */
+.qas-nav{display:grid;grid-template-columns:repeat(auto-fill,minmax(40px,1fr));gap:8px;margin:18px 0}.qas-nav button{border:1px solid var(--line);border-radius:9px;padding:9px 0;background:var(--panel2);color:var(--text)}.qas-nav button.answered{border-color:var(--accent);color:var(--accent)}.qas-nav button.current{background:var(--accent);color:#072735;font-weight:800}.qas-mobile-exams{display:none}@media(max-width:900px){.qas-mobile-exams{display:block;margin-left:auto;margin-right:12px}.qas-mobile-exams .btn{padding:8px 11px;font-size:12px}}@media(max-width:580px){.qas-mobile-exams{margin-right:3px}.qas-mobile-exams .btn{font-size:11px;padding:7px}}

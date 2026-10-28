@@ -1,11 +1,11 @@
-# Qas.nur v1.4 — academic editorial progress
+# Qas.nur Academic Quality Audit v1.4
 
-This release preserves v1.3 and expands Asthma, COPD, Pneumonia, Angina Pectoris, Hypertension and Deep Vein Thrombosis. It does not complete the full Adult Health I curriculum.
+This is an **interim, NOT FINAL** release. It preserves the existing site and merges prior v1.1 and v1.2 scripts.
 
-For a local preview, open index.html. For GitHub Pages, upload these seven website files together to the repository root: index.html, styles.css, app.js, adult1.js, just-core.js, academic-v12.js, academic-v14.js. Keep exact filenames; do not add the attachment suffixes (3) or (1).
+Changes: corrected branding, corrected misleading claims of completeness, removed a generic repeated in-topic multiple-choice question from the sidebar (NCLEX remains in its separate site section), and added an itemized academic audit.
 
-Review CONTENT-STATUS.md for the complete 130-entry inventory and remaining editorial work. Source links appear under every newly expanded section. Source checking is dated 29 October 2026; clinician/educator sign-off remains pending.
+Inventory: 130 topic entries in 6 categories. The first five categories have 114 entries; JUST Clinical Core has 16. Some entries overlap conceptually. Topic counts are NOT counts of fully developed or verified chapters.
 
-No Anatomy, OSCE, worksheet, post-conference or assessment-form sections were added. The generic quiz inside disease pages was removed, while the existing separate practice section is preserved. Original illustrative nursing problems are not presented as verified NANDA-I taxonomy.
+Do not publish as a validated clinical learning reference without independent qualified nurse-educator review. No claims of completed medical verification.
 
-Validation: 130 routes and 66 new sections exercised with minimal DOM stubs in Node; all baseline section functions checked; linked local assets exist. See validation.json. Visual/mobile browser QA was unavailable because no browser executable was installed.
+Upload the six web files to GitHub root; do NOT upload this README or CSV if unnecessary.
