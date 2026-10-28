@@ -1,0 +1,652 @@
+[
+  {
+    "system": "Cardiovascular",
+    "title": "Hypertension",
+    "status": "Expanded v1.4; clinical review pending"
+  },
+  {
+    "system": "Cardiovascular",
+    "title": "Coronary Artery Disease",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Cardiovascular",
+    "title": "Angina Pectoris",
+    "status": "Expanded v1.4; clinical review pending"
+  },
+  {
+    "system": "Cardiovascular",
+    "title": "Myocardial Infarction",
+    "status": "Existing expanded draft; re-audit pending"
+  },
+  {
+    "system": "Cardiovascular",
+    "title": "Heart Failure",
+    "status": "Existing expanded draft; re-audit pending"
+  },
+  {
+    "system": "Cardiovascular",
+    "title": "Cardiac Dysrhythmias",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Cardiovascular",
+    "title": "Pericarditis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Cardiovascular",
+    "title": "Peripheral Arterial Disease",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Cardiovascular",
+    "title": "Deep Vein Thrombosis",
+    "status": "Expanded v1.4; clinical review pending"
+  },
+  {
+    "system": "Cardiovascular",
+    "title": "Valvular Heart Diseases",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Cardiovascular",
+    "title": "Myocarditis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Cardiovascular",
+    "title": "Cardiomyopathies",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Cardiovascular",
+    "title": "Cardiac Assessment & Diagnostics",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Cardiovascular",
+    "title": "Chronic Venous Insufficiency",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "Asthma",
+    "status": "Expanded v1.4; clinical review pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "COPD",
+    "status": "Expanded v1.4; clinical review pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "Pneumonia",
+    "status": "Expanded v1.4; clinical review pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "Tuberculosis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "Pulmonary Embolism",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "Pneumothorax",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "Pleural Effusion",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "Acute Respiratory Failure",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "ARDS",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "Bronchiectasis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "Pulmonary Hypertension",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "Respiratory Assessment & Diagnostics",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "Oxygen Therapy & Airway Management",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "Mechanical Ventilation",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "Chest Tubes & Pleural Drainage",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "Lung Cancer",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "Interstitial Lung Diseases",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "Empyema",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "Sleep Apnea",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "Aspiration & Airway Obstruction",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "Tracheostomy Care",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Respiratory",
+    "title": "Thoracentesis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "GERD",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Gastritis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Peptic Ulcer Disease",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Upper & Lower GI Bleeding",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Appendicitis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Peritonitis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Intestinal Obstruction",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Irritable Bowel Syndrome",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Inflammatory Bowel Disease",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Acute & Chronic Pancreatitis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Hepatitis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Liver Cirrhosis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Hepatic Encephalopathy",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Cholelithiasis & Cholecystitis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Colorectal Cancer",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Esophageal & Gastric Cancer",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "GI Assessment & Diagnostic Procedures",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Enteral & Parenteral Nutrition",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Hemorrhoids & Anal Fissures",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Esophageal Varices",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Ascites & Spontaneous Bacterial Peritonitis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Acute Liver Failure",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Gallstone Pancreatitis & Cholangitis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Gastrointestinal",
+    "title": "Dysphagia & Aspiration Precautions",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Type 1 Diabetes Mellitus",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Type 2 Diabetes Mellitus",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Diabetic Ketoacidosis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Hyperosmolar Hyperglycemic State",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Hypoglycemia",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Hypothyroidism",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Hyperthyroidism",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Thyroid Storm",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Goiter & Thyroid Nodules",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Thyroid Cancer",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Addison Disease",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Cushing Syndrome",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Adrenal Crisis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "SIADH",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Diabetes Insipidus",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Hyperparathyroidism",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Hypoparathyroidism",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Pituitary Disorders",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Endocrine Assessment & Diagnostics",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Insulin Therapy & Diabetes Education",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Graves Disease",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Hashimoto Thyroiditis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Acromegaly & Gigantism",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Pheochromocytoma",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Primary Hyperaldosteronism",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Metabolic Syndrome",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Diabetic Foot & Chronic Complications",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Thyroidectomy & Postoperative Care",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Endocrine",
+    "title": "Adrenalectomy & Postoperative Care",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Acute Kidney Injury",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Chronic Kidney Disease",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "End-Stage Kidney Disease",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Hemodialysis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Peritoneal Dialysis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Urinary Tract Infection",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Pyelonephritis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Glomerulonephritis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Nephrotic Syndrome",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Nephrolithiasis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Urinary Retention",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Urinary Incontinence",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Hydronephrosis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Benign Prostatic Hyperplasia",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Bladder Cancer",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Prostate Cancer",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Renal Cell Carcinoma",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Acid–Base & Electrolyte Imbalances",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Urinary Catheterization & Catheter Care",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Kidney Transplantation",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Renal Assessment & Diagnostics",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Acute Nephritic Syndrome",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Renal Artery Stenosis",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Neurogenic Bladder",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "Renal & Urinary",
+    "title": "Continuous Renal Replacement Therapy",
+    "status": "Generic baseline; rewrite pending"
+  },
+  {
+    "system": "JUST Clinical Core",
+    "title": "Preoperative Nursing Management",
+    "status": "Existing clinical-core draft; rewrite pending"
+  },
+  {
+    "system": "JUST Clinical Core",
+    "title": "Intraoperative Nursing Management",
+    "status": "Existing clinical-core draft; rewrite pending"
+  },
+  {
+    "system": "JUST Clinical Core",
+    "title": "Postoperative Nursing Management",
+    "status": "Existing clinical-core draft; rewrite pending"
+  },
+  {
+    "system": "JUST Clinical Core",
+    "title": "Fluid Volume Deficit",
+    "status": "Existing v1.2 patch; depth audit pending"
+  },
+  {
+    "system": "JUST Clinical Core",
+    "title": "Fluid Volume Excess",
+    "status": "Existing clinical-core draft; rewrite pending"
+  },
+  {
+    "system": "JUST Clinical Core",
+    "title": "Hyponatremia",
+    "status": "Existing v1.2 patch; depth audit pending"
+  },
+  {
+    "system": "JUST Clinical Core",
+    "title": "Hyperkalemia",
+    "status": "Existing v1.2 patch; depth audit pending"
+  },
+  {
+    "system": "JUST Clinical Core",
+    "title": "Acid–Base Disturbances",
+    "status": "Existing clinical-core draft; rewrite pending"
+  },
+  {
+    "system": "JUST Clinical Core",
+    "title": "Parenteral Fluid Therapy",
+    "status": "Existing clinical-core draft; rewrite pending"
+  },
+  {
+    "system": "JUST Clinical Core",
+    "title": "Hypertensive Crisis",
+    "status": "Existing v1.2 patch; depth audit pending"
+  },
+  {
+    "system": "JUST Clinical Core",
+    "title": "Acute Bronchitis",
+    "status": "Existing clinical-core draft; rewrite pending"
+  },
+  {
+    "system": "JUST Clinical Core",
+    "title": "Hypoproliferative Anemia",
+    "status": "Existing clinical-core draft; rewrite pending"
+  },
+  {
+    "system": "JUST Clinical Core",
+    "title": "Hemolytic Anemia",
+    "status": "Existing clinical-core draft; rewrite pending"
+  },
+  {
+    "system": "JUST Clinical Core",
+    "title": "Acute Inflammatory Intestinal Disorders",
+    "status": "Existing clinical-core draft; rewrite pending"
+  },
+  {
+    "system": "JUST Clinical Core",
+    "title": "ECG Interpretation Basics",
+    "status": "Existing clinical-core draft; rewrite pending"
+  },
+  {
+    "system": "JUST Clinical Core",
+    "title": "Pulmonary Edema",
+    "status": "Existing clinical-core draft; rewrite pending"
+  }
+]

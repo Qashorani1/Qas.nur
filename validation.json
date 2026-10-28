@@ -1,0 +1,10 @@
+{
+  "checks": 1604,
+  "topicRoutes": 130,
+  "newExpandedTopics": 6,
+  "newSections": 66,
+  "scriptLoad": "passed",
+  "topicAndSectionRendering": "passed in Node VM with minimal DOM stubs",
+  "browserVisualQA": "Not performed: browser executable unavailable",
+  "clinicalSignoff": "pending"
+}
