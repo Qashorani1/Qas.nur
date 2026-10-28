@@ -9,3 +9,10 @@
 #selected-phrase{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:#c6dce7}
 #translate-selected{background:#5cdec4;color:#072735;border:0;border-radius:9px;padding:9px;font-weight:800;font-size:12px;white-space:nowrap}
 #dismiss-translation{border:0;background:transparent;color:#eaf5fb;font-size:22px;padding:0 5px}
+
+/* Qas.nur ownership watermark: decorative, low contrast and non-interactive */
+body::before{content:"© Qas.nur — All Rights Reserved";position:fixed;inset:0;display:flex;align-items:center;justify-content:center;transform:rotate(-28deg);font:800 clamp(22px,5vw,72px) Manrope,sans-serif;letter-spacing:.05em;color:rgba(164,220,221,.045);pointer-events:none;user-select:none;z-index:0;text-align:center;white-space:nowrap}
+#app{position:relative;z-index:1}
+@media(max-width:580px){body::before{font-size:23px;white-space:normal;padding:20px}}
+
+html{scroll-padding-top:90px}article[id]{scroll-margin-top:95px}a.sidebtn{color:#b7cdd8;text-decoration:none}a.sidebtn:hover{background:#1a4554;color:var(--accent)}.panel p{overflow-wrap:anywhere}
